@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-04-09T17:01:03.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>posrix</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/04/08/hello/"/>
+    <id>http://yoursite.com/2017/04/08/hello/</id>
+    <published>2017-04-07T22:03:00.000Z</published>
+    <updated>2017-04-09T17:01:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="A-placeholder-blog-for-preview"><a href="#A-placeholder-blog-for-preview" class="headerlink" title="A placeholder blog for preview"></a>A placeholder blog for preview</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;A-placeholder-blog-for-preview&quot;&gt;&lt;a href=&quot;#A-placeholder-blog-for-preview&quot; class=&quot;headerlink&quot; title=&quot;A placeholder blog for preview&quot;&gt;
+    
+    </summary>
+    
+    
+      <category term="preview" scheme="http://yoursite.com/tags/preview/"/>
+    
+  </entry>
+  
+</feed>
